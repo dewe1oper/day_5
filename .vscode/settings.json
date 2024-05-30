@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.hideCursorInOverviewRuler": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.suggest.showStatusBar": true,
+    "problems.showCurrentInStatus": true,
+    "notebook.showCellStatusBar": "visible",
+    "dart.hotReloadProgress": "statusBar",
+    "zenMode.hideStatusBar": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "debug.openExplorerOnEnd": true,
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true
+}
